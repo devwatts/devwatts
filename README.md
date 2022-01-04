@@ -1,8 +1,8 @@
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Dev, a full-stack developer. 
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.](https://devwatts.github.io/my-main-website/)
 
 ## 📝 Latest Blog Posts
 
@@ -24,7 +24,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 </a>
 
 <a href="https://github.com/devwatts">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=devwatts&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=devwatts&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Devs's GitHub Stats" />
 </a>
 
 <br>
