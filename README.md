@@ -2,7 +2,7 @@ Hey there <img align="center" style="height:30px;" src="https://user-images.gith
 
 I’m Dev, a full-stack developer. 
 
-Want to know more about me? [Check out my portfolio.](https://devwatts.github.io/my-main-website/)
+Want to know more about me? [Check out my portfolio.](https://dev-watts.web.app/projects/)
 
 ## 📝 Latest Blog Posts
 - <a href="https://dev-watts.web.app/content/i-made-this-article-posting-system!"><div>I made this article posting system!</div></a>
