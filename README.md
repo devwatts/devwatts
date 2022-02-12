@@ -9,7 +9,7 @@ Want to know more about me? [Check out my portfolio.](https://devwatts.github.io
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-![This is an image](https://devwatts.herokuapp.com/latestArticles/img/1)
+![This is an image](https://toolcavebucket.s3.ap-south-1.amazonaws.com/articleData/articleCovers/1642611663096.png)
 <img align="center" style="margin:0.5rem" src="https://devwatts.herokuapp.com/latestArticles/title/1" alt="Devs's GitHub Stats" />
 <!-- BLOG-POST-LIST:END -->
 <br>
