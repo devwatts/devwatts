@@ -5,11 +5,9 @@ I’m Dev, a full-stack developer.
 Want to know more about me? [Check out my portfolio.](https://devwatts.github.io/my-main-website/)
 
 ## 📝 Latest Blog Posts
-
-<br>
-
-
-<br>
+- <a href="https://dev-watts.web.app/content/i-made-this-article-posting-system!"><div>I made this article posting system!</div></a>
+- <a href="https://dev-watts.web.app/content/starting-with-electron!"><div>Starting with Electron!</div></a>
+- <a href="https://dev-watts.web.app/content/"><div>Click here to see more blogs</div></a>
 
 
 ## &#x1f4c8; GitHub Stats
