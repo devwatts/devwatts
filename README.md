@@ -5,8 +5,8 @@ I’m Dev, a full-stack developer.
 Want to know more about me? [Check out my portfolio.](https://dev-watts.web.app/projects/)
 
 ## 📝 Latest Blog Posts
-- <a href="https://dev-watts.web.app/content/i-made-this-article-posting-system!"><div>I made this article posting system!</div></a>
-- <a href="https://dev-watts.web.app/content/starting-with-electron!"><div>Starting with Electron!</div></a>
+- <a href="https://dev-watts.web.app/content/i-won--the-alibaba-low-code-contest!"><div>I won the Alibaba Low Code Contest!</div></a>
+- <a href="https://dev-watts.web.app/content/mern-stack-developer-(msd)-roadmap"><div>MERN Stack Developer (MSD) Roadmap</div></a>
 - <a href="https://dev-watts.web.app/content/"><div>Click here to see more blogs</div></a>
 
 
