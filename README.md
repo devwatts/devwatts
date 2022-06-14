@@ -1,4 +1,4 @@
-Hey there <img align="center" style="height:30px;" src="https://user-images.githubusercontent.com/59016469/153720067-4c81aa4b-2f74-4148-acbd-690d450d8bcf.gif"/>
+Hey there <img align="center" width="40" height="40" src="https://user-images.githubusercontent.com/59016469/153720067-4c81aa4b-2f74-4148-acbd-690d450d8bcf.gif"/>
 
 I’m Dev, a full-stack developer. 
 
