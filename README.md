@@ -15,8 +15,6 @@ Want to know more about me? [Check out my portfolio.](https://dev-watts.web.app/
 <br>
 
 <div align="center">
-  <a href="">![GitHub Streak](https://devwatts.xyz)</a>
-
  <a href="">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devwatts&theme=vue-dark)</a>
  
 </div>
